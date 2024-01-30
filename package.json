@@ -1,0 +1,25 @@
+{
+  "name": "rami-homepage",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Fiction Factory",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "desandro-get-style-property": "^1.0.4",
+    "desandro-matches-selector": "^2.0.2",
+    "doc-ready": "^1.0.4",
+    "eventie": "^1.0.6",
+    "fizzy-ui-utils": "^3.0.0",
+    "get-size": "^3.0.0",
+    "jquery": "^3.7.1",
+    "masonry-layout": "^4.2.2",
+    "outlayer": "^2.1.1",
+    "wolfy87-eventemitter": "^5.2.9"
+  }
+}
